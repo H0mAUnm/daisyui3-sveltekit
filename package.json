@@ -1,0 +1,20 @@
+{
+	"name": "daisyui3-sveltekit",
+	"version": "0.0.1",
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-static": "^2.0.3",
+		"@sveltejs/kit": "^1.20.4",
+		"autoprefixer": "^10.4.14",
+		"daisyui": "^3.5.1",
+		"postcss": "^8.4.28",
+		"svelte": "^4.0.5",
+		"tailwindcss": "^3.3.3",
+		"vite": "^4.4.2"
+	},
+	"type": "module"
+}
